@@ -1,22 +1,22 @@
 basic:
-  name: Foo Bar
+  name: Jose Pablo Martinez Hernandez
   title: Backend Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: jpmh.1309@gmail.com
+  phone: +506 8617-7529
   wechat:
   whatsapp:
   telegram:
-  website: example.com
-  medium:
+  website: https://jpmh1309.github.io/
+  medium: 
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: https://github.com/jpmh1309
   gitlab:
   bitbucket:
   twitter: twitter
