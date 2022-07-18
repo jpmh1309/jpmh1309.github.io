@@ -28,7 +28,10 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
+    + Electrical Engineer from the University of Costa Rica, with working experience in the development of hardware/software projects. 
+      Interested in electronics devices and  embedded systems and their possible application in fields such as robotic, automation, 
+      control systems, machine learning, digital signal processing, and related areas. Also interested in data science and 
+      machine learning applications
     + First
     + Second
 
